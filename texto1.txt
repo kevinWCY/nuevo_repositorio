@@ -1,2 +1,10 @@
 se hizo un cambio en texto1
 
+no paso nada 
+
+los cambios en cada archivo en cada rama son distintos 
+
+por mas que los archivos sean iguales 
+
+los cambios en cada rama son individuales 
+
