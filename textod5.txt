@@ -1,3 +1,0 @@
-una nueva carpeta en la rama  develop 
-
-esta rama se llama texto develop cinco .txt

@@ -1,0 +1,6 @@
+un nuevo texto en el archivo miCodigo
+
+voy a hacer un merge con la ramaNueva en esta rama
+
+esta rama en donde me encuetro se llama ramaNueva xd
+ 
