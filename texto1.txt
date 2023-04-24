@@ -1,2 +1,12 @@
-se hizo un cambio en texto1
+se hizo un cambio en textouno
+
+si aumento cambios aqui ?
+
+que pasara 
+s
+
+se cambiaran de todas las ramas 
+
+que tengan igual archivo que eeste
+
 
